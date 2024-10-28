@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">RemoteComposeDemo</string>
+	<string name="unsupported_launcher">Unsupported launcher</string>
+</resources>
